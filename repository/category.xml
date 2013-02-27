@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/net.vzurczak.sample.platform.feature_1.0.0.qualifier.jar" id="net.vzurczak.sample.platform.feature" version="1.0.0.qualifier">
+      <category name="My Felix Platform"/>
+   </feature>
+   <category-def name="My Felix Platform" label="My Felix Platform">
+      <description>
+         A p2 repository with the required bundles to develop and compile against Felix.
+      </description>
+   </category-def>
+</site>
